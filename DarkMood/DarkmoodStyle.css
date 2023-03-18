@@ -1,0 +1,31 @@
+.outerBox {
+    border: 1px solid;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.innerBox {
+    border: 1px solid red;
+    height: 300px;
+    width: 600px;
+    padding: 30px;
+
+}
+
+.innerBox button {
+    padding: 10px 13px;
+    outline: none;
+    border: none;
+    margin: 7px;
+    border-radius: 5px;
+}
+
+.innerBox input {
+    padding: 10px 13px;
+    outline: none;
+    border: none;
+    border: 1px solid;
+}
