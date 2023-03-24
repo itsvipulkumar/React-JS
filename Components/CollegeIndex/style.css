@@ -1,0 +1,18 @@
+.College_data ul {
+    display: flex;
+    list-style: none;
+
+}
+
+.College_data ul li {
+    margin: 9px;
+}
+
+table td {
+    padding: 10px;
+}
+
+table th {
+    font-size: 20px;
+    padding: 20px;
+}
